@@ -3,17 +3,17 @@ Tool List
 
 All tools are public Github repositories
 
-Repo                                                |Type              |Dependencies
-----------------------------------------------------|------------------|----------------
-Khan/tota11y                                        |in-page function  |JQuery
-GoogleChrome/accessibility-developer-tools          |local Node service|Node
-GoogleChrome/accessibility-developer-tools-extension|browser addon     |Closure Compiler
-A11yance/a11y-core                                  |local Node service|Node/Grunt
-prettydiff/semanticText                             |in-page function  |-
-prettydiff/colorContrast                            |stand-alone page  |-
-adobe-accessibility/Accessible-Mega-Menu            |web component     |JQuery
-yargalot/grunt-accessibility                        |CLI               |Node/Grunt
-nature/pa11y                                        |CLI               |Node/PhantonJS
+Repo                                                                                                                           |Type              |Dependencies
+-------------------------------------------------------------------------------------------------------------------------------|------------------|----------------
+[Khan/tota11y](https://github.com/Khan/tota11y)                                                                                |in-page function  |JQuery
+[GoogleChrome/accessibility-developer-tools](https://github.com/GoogleChrome/accessibility-developer-tools)                    |local Node service|Node
+[GoogleChrome/accessibility-developer-tools-extension](https://github.com/GoogleChrome/accessibility-developer-tools-extension)|browser addon     |Closure Compiler
+[A11yance/a11y-core](https://github.com/A11yance/a11y-core)                                                                    |local Node service|Node/Grunt
+[prettydiff/semanticText](https://github.com/prettydiff/semanticText)                                                          |in-page function  |-
+[prettydiff/colorContrast](https://github.com/prettydiff/colorContrast)                                                        |stand-alone page  |-
+[adobe-accessibility/Accessible-Mega-Menu](https://github.com/adobe-accessibility/Accessible-Mega-Menu)                        |web component     |JQuery
+[yargalot/grunt-accessibility](https://github.com/yargalot/grunt-accessibility)                                                |CLI               |Node/Grunt
+[nature/pa11y](https://github.com/nature/pa11y)                                                                                |CLI               |Node/PhantonJS
 
 My purpose in making such a list is that I want to be aware of what things are being evaluated so that I can get an idea of what things aren't being evaluated.  Accessibility is hard, and since many commercial sites don't produce high quality HTML accessibility is much harder than it should be.  Making accessibility easier to implement and understand is absolutely important.  Good tools help with this.
 
