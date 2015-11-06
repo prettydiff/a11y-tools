@@ -5,14 +5,15 @@ All tools are public Github repositories primary written in HTML and/or JavaScri
 
 Repo                                                                                                                           |Type              |Purpose            |Dependencies
 -------------------------------------------------------------------------------------------------------------------------------|------------------|-------------------|------------
-[squizlabs/HTML_CodeSniffer](https://github.com/squizlabs/HTML_CodeSniffer)                                                    |stand-alone page  |code audit         |-
-[GoogleChrome/accessibility-developer-tools](https://github.com/GoogleChrome/accessibility-developer-tools)                    |local Node service|code audit         |Node
 [GoogleChrome/accessibility-developer-tools-extension](https://github.com/GoogleChrome/accessibility-developer-tools-extension)|browser addon     |code audit         |Closure Compiler
 [ainspector/ainspector.github.io](https://github.com/ainspector/ainspector.github.io)                                          |browser addon     |code audit         |-
 [yargalot/grunt-accessibility](https://github.com/yargalot/grunt-accessibility)                                                |CLI               |code audit         |Node/Grunt
 [nature/pa11y](https://github.com/nature/pa11y)                                                                                |CLI               |code audit         |Node/PhantonJS
 [addyosmani/a11y](https://github.com/addyosmani/a11y)                                                                          |CLI               |code audit         |Node/PhantomJS
+[dequelabs/axe-core](https://github.com/dequelabs/axe-core)                                                                    |in-page function  |code audit         |-
+[GoogleChrome/accessibility-developer-tools](https://github.com/GoogleChrome/accessibility-developer-tools)                    |local Node service|code audit         |Node
 [rackt/react-a11y](https://github.com/rackt/react-a11y)                                                                        |React Component   |code audit         |React
+[squizlabs/HTML_CodeSniffer](https://github.com/squizlabs/HTML_CodeSniffer)                                                    |stand-alone page  |code audit         |-
 [haltersweb/Accessibility](https://github.com/haltersweb/Accessibility)                                                        |stand-alone page  |code library       |-
 [prettydiff/colorContrast](https://github.com/prettydiff/colorContrast)                                                        |stand-alone page  |color contrast     |-
 [jxnblk/colorable](https://github.com/jxnblk/colorable)                                                                        |stand-alone page  |color contrast     |-
