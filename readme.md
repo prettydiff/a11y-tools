@@ -30,6 +30,8 @@ Repo                                                                            
 [howlowck/Akbar](https://github.com/howlowck/Akbar)                                                                            |bookmarklet       |vision simulation  |-
 [adobe-accessibility/Accessible-Mega-Menu](https://github.com/adobe-accessibility/Accessible-Mega-Menu)                        |web component     |web component      |JQuery
 [A11yance/a11y-core](https://github.com/A11yance/a11y-core)                                                                    |local Node service|?                  |Node/Grunt
+[Grunt Tenon Client](https://github.com/egauci/grunt-tenon-client)                                                                    |local Node service|code audit         |Node/Grunt
+[Gulp Tenon Client](https://github.com/egauci/gulp-tenon-client)                                                                    |local Node service|code audit         |Node/Gulp
 
 
 
