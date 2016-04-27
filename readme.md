@@ -40,6 +40,16 @@ Repo                                                                            
 [A11y Toggle](edenspiekermann/a11y-toggle)                                                                                     |in-page function  |utility, toggle         |-
 [howlowck/Akbar](https://github.com/howlowck/Akbar)                                                                            |bookmarklet       |vision simulation       |-
 [adobe-accessibility/Accessible-Mega-Menu](https://github.com/adobe-accessibility/Accessible-Mega-Menu)                        |web component     |web component           |JQuery
+[A11y.css](https://github.com/ffoodd/a11y.css)      |bookmarklet     |utility           | -
+[jQuery accessible autocomplete list (with some ARIA)](https://github.com/nico3333fr/jquery-accessible-autocomplete-list-aria)      |in-page function     |utility, ARIA           | JQuery
+[jQuery Accessible Carrousel System, using ARIA](https://github.com/nico3333fr/jquery-accessible-carrousel-aria)      |in-page function     |utility, ARIA            | JQuery
+[jQuery Accessible tab panel system, using ARIA](https://github.com/nico3333fr/jquery-accessible-tabs-aria)      |in-page function     |utility, ARIA            | JQuery
+[jQuery accessible keyboard-enhanced dropdown navigation](https://github.com/nico3333fr/jquery-accessible-subnav-dropdown)      |in-page function     |utility, ARIA            | JQuery
+[jQuery accessible simple tooltip window, using ARIA](https://github.com/nico3333fr/jquery-accessible-simple-tooltip-aria)      |in-page function     |utility, ARIA            | JQuery
+[jQuery simple and accessible modal window, using ARIA](https://github.com/nico3333fr/jquery-accessible-modal-window-aria)      |in-page function     |utility, ARIA            | JQuery
+[jQuery simple and accessible hide-show system (collapsible regions)](https://github.com/nico3333fr/jquery-accessible-hide-show-aria)      |in-page function     |utility, ARIA            | JQuery
+[jQuery simple and accessible dialog tooltip window, using ARIA](https://github.com/nico3333fr/jquery-accessible-dialog-tooltip-aria)      |in-page function     |utility, ARIA            | JQuery
+[jQuery Accessible Accordion system, using ARIA](https://github.com/nico3333fr/jquery-accessible-accordion-aria)      |in-page function     |utility, ARIA            | JQuery
 [A11yance/a11y-core](https://github.com/A11yance/a11y-core)                                                                    |local Node service|?                       |Node/Grunt
 
 
