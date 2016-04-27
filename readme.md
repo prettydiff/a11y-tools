@@ -9,13 +9,13 @@ Repo                                                                            
 [ainspector/ainspector.github.io](https://github.com/ainspector/ainspector.github.io)                                          |browser addon     |code audit              |-
 [Document Outline Audit](https://github.com/edenspiekermann/outline-audit)                                                     |browser addon     |code audit              |-
 [yargalot/grunt-accessibility](https://github.com/yargalot/grunt-accessibility)                                                |CLI               |code audit              |Node/Grunt
-[nature/pa11y](https://github.com/nature/pa11y)                                                                                |CLI               |code audit              |Node/PhantonJS
+[nature/pa11y](https://github.com/springernature/pa11y)                                                                                |CLI               |code audit              |Node/PhantonJS
 [addyosmani/a11y](https://github.com/addyosmani/a11y)                                                                          |CLI               |code audit              |Node/PhantomJS
 [dequelabs/axe-core](https://github.com/dequelabs/axe-core)                                                                    |in-page function  |code audit              |-
 [GoogleChrome/accessibility-developer-tools](https://github.com/GoogleChrome/accessibility-developer-tools)                    |local Node service|code audit              |Node
 [Grunt Tenon Client](https://github.com/egauci/grunt-tenon-client)                                                             |local Node service|code audit              |Node/Grunt
 [Gulp Tenon Client](https://github.com/egauci/gulp-tenon-client)                                                               |local Node service|code audit              |Node/Gulp
-[rackt/react-a11y](https://github.com/rackt/react-a11y)                                                                        |React Component   |code audit              |React
+[rackt/react-a11y](https://github.com/reactjs/react-a11y)                                                                        |React Component   |code audit              |React
 [squizlabs/HTML_CodeSniffer](https://github.com/squizlabs/HTML_CodeSniffer)                                                    |stand-alone page  |code audit              |-
 [TENON](http://tenon.io/)                                                                                                      |stand-alone page  |code audit              |-
 [haltersweb/Accessibility](https://github.com/haltersweb/Accessibility)                                                        |stand-alone page  |code library            |-
@@ -31,7 +31,7 @@ Repo                                                                            
 [html5accessibility.com](http://html5accessibility.com/)                                                                       |stand-alone page  |reference browser       |-
 [melmo/melmo.github.io](https://github.com/melmo/melmo.github.io)                                                              |stand-alone page  |reference landmarks     |-
 [zone/zwag](https://github.com/zone/zwag)                                                                                      |stand-alone page  |reference WCAG          |Node
-[nature/pa11y-dashboard](https://github.com/nature/pa11y-dashboard)                                                            |stand-alone page  |reporting               |Node/PhantomJS
+[nature/pa11y-dashboard](https://github.com/springernature/pa11y-dashboard)                                                            |stand-alone page  |reporting               |Node/PhantomJS
 [Khan/tota11y](https://github.com/Khan/tota11y)                                                                                |in-page function  |semantic analysis       |JQuery
 [prettydiff/semanticText](https://github.com/prettydiff/semanticText)                                                          |in-page function  |semantic analysis       |-
 [a11y.js](https://github.com/IBM-Watson/a11y.js)                                                                               |in-page function  |utility, ARIA           |-
