@@ -36,8 +36,8 @@ Repo                                                                            
 [prettydiff/semanticText](https://github.com/prettydiff/semanticText)                                                          |in-page function  |semantic analysis       |-
 [a11y.js](https://github.com/IBM-Watson/a11y.js)                                                                               |in-page function  |utility, ARIA           |-
 [ally.js](http://allyjs.io/)                                                                                                   |in-page function  |utility, focus          |-
-[A11y Dialog](edenspiekermann/a11y-dialog)                                                                                     |in-page function  |utility, modal generator|-
-[A11y Toggle](edenspiekermann/a11y-toggle)                                                                                     |in-page function  |utility, toggle         |-
+[A11y Dialog](https://github.com/edenspiekermann/a11y-dialog)                                                                                     |in-page function  |utility, modal generator|-
+[A11y Toggle](https://github.com/edenspiekermann/a11y-toggle)                                                                                     |in-page function  |utility, toggle         |-
 [howlowck/Akbar](https://github.com/howlowck/Akbar)                                                                            |bookmarklet       |vision simulation       |-
 [adobe-accessibility/Accessible-Mega-Menu](https://github.com/adobe-accessibility/Accessible-Mega-Menu)                        |web component     |web component           |JQuery
 [A11y.css](https://github.com/ffoodd/a11y.css)      |bookmarklet     |utility           | -
