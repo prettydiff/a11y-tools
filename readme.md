@@ -51,6 +51,11 @@ Repo                                                                            
 [jQuery simple and accessible dialog tooltip window, using ARIA](https://github.com/nico3333fr/jquery-accessible-dialog-tooltip-aria)      |in-page function     |utility, ARIA            | JQuery
 [jQuery Accessible Accordion system, using ARIA](https://github.com/nico3333fr/jquery-accessible-accordion-aria)      |in-page function     |utility, ARIA            | JQuery
 [A11yance/a11y-core](https://github.com/A11yance/a11y-core)                                                                    |local Node service|?                       |Node/Grunt
+[jQuery powered accessible widget archive, using ARIA](https://github.com/accdc/tsg)                                                                          |in-page function     |utility, ARIA            | JQuery
+[MooTools powered accessible widget archive, using ARIA](https://github.com/accdc/tsg-mootools)                                                                          |in-page function     |utility, ARIA            | MooTools
+[Dojo powered accessible widget archive, using ARIA](https://github.com/accdc/tsg-dojo)                                                                          |in-page function     |utility, ARIA            | Dojo
+[Visual ARIA, bookmarklet for seeing ARIA](https://github.com/accdc/csun-2016)      |bookmarklet     |utility           | -
+[Accessibility Tree Training Guide, how ARIA works](http://whatsock.com/training)                                                                       |stand-alone page  |reference browser       |-
 
 
 
