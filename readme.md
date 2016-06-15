@@ -48,6 +48,7 @@ Repo                                                                            
 [jQuery simple and accessible dialog tooltip window, using ARIA](https://github.com/nico3333fr/jquery-accessible-dialog-tooltip-aria)|utility, ARIA           |in-page function  |JQuery
 [jQuery Accessible Accordion system, using ARIA](https://github.com/nico3333fr/jquery-accessible-accordion-aria)                     |utility, ARIA           |in-page function  |JQuery
 [jQuery powered accessible widget archive, using ARIA](https://github.com/accdc/tsg)                                                 |utility, ARIA           |in-page function  |JQuery
+[jQuery ARIA menubar utility](https://github.com/accdc/aria-menubar)                                                                 |utility, ARIA           |in-page function  |jQuery
 [MooTools powered accessible widget archive, using ARIA](https://github.com/accdc/tsg-mootools)                                      |utility, ARIA           |in-page function  |MooTools
 [Dojo powered accessible widget archive, using ARIA](https://github.com/accdc/tsg-dojo)                                              |utility, ARIA           |in-page function  |Dojo
 [ally.js](http://allyjs.io/)                                                                                                         |utility, focus          |in-page function  |-
