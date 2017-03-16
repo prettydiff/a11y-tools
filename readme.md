@@ -5,7 +5,7 @@ All tools are public Github repositories primary written in HTML and/or JavaScri
 
 Repo                                                                                                                                 |Purpose                 |Type              |Dependencies
 -------------------------------------------------------------------------------------------------------------------------------------|------------------------|------------------|------------
-[ainspector/ainspector.github.io](https://github.com/ainspector/ainspector.github.io)                                                |code audit              |browser addon     |-
+[AInspector Sidebar](https://ainspector.github.io)                                                                                   |code audit              |browser addon     |-
 [Document Outline Audit](https://github.com/edenspiekermann/outline-audit)                                                           |code audit              |browser addon     |-
 [dequelabs/axe-core](https://github.com/dequelabs/axe-core)                                                                          |code audit              |in-page function  |-
 [GoogleChrome/accessibility-developer-tools](https://github.com/GoogleChrome/accessibility-developer-tools)                          |code audit              |local Node service|Node
@@ -19,31 +19,31 @@ Repo                                                                            
 ↳ [nature/pa11y-dashboard](https://github.com/springernature/pa11y-dashboard)                                                        |reporting               |stand-alone page  |Node/PhantomJS
 [TENON](http://tenon.io/)                                                                                                            |code audit              |stand-alone page  |-
 [A11y.css](https://github.com/ffoodd/a11y.css)                                                                                       |utility                 |bookmarklet       |-
-[Visual ARIA, bookmarklet for seeing ARIA](https://github.com/accdc/csun-2016)                                                       |utility                 |bookmarklet       |-
+[Visual ARIA](https://github.com/accdc/csun-2016)                                                                                    |utility                 |bookmarklet       |-
 [prettydiff/colorContrast](https://github.com/prettydiff/colorContrast)                                                              |color contrast          |color contrast    |-
 [LeaVerou/contrast-ratio](https://github.com/LeaVerou/contrast-ratio)                                                                |color contrast          |color contrast    |-
 [jxnblk/colorable](https://github.com/jxnblk/colorable)                                                                              |color contrast          |color contrast    |-
 [howlowck/Akbar](https://github.com/howlowck/Akbar)                                                                                  |vision simulation       |bookmarklet       |-
 [prettydiff/semanticText](https://github.com/prettydiff/semanticText)                                                                |semantic analysis       |in-page function  |-
-[RAMP-PCAR/RAMP-PCAR](https://github.com/RAMP-PCAR/RAMP-PCAR)                                                                        |framework               |framework         |Node/Grunt
+[RAMP-PCAR](https://github.com/RAMP-PCAR/RAMP-PCAR)                                                                                  |framework               |framework         |Node/Grunt
 [CaptionBot](https://www.captionbot.ai/)                                                                                             |image caption generator |web service       |-
 [wesbos/keycodes](https://github.com/wesbos/keycodes)                                                                                |keyboard keycodes       |stand-alone page  |-
-[W3C](http://w3c.github.io/uievents/tools/key-event-viewer.html)                                                                     |keyboard keycodes       |stand-alone page  |-
-[a11yproject/a11yproject.com](https://github.com/a11yproject/a11yproject.com)                                                        |informational           |stand-alone page  |Ruby
+[Keyboard Event Viewer](http://w3c.github.io/uievents/tools/key-event-viewer.html)                                                   |keyboard keycodes       |stand-alone page  |-
+[The A11Y Project](https://a11yproject.com)                                                                                          |informational           |stand-alone page  |Ruby
 [Accessibility Tree Training Guide, how ARIA works](http://whatsock.com/training)                                                    |reference browser       |stand-alone page  |-
 [melmo/melmo.github.io](https://github.com/melmo/melmo.github.io)                                                                    |reference landmarks     |stand-alone page  |-
 [dylanb/dylanb.github.io](https://github.com/dylanb/dylanb.github.io)                                                                |reference ARIA          |stand-alone page  |-
 [html5accessibility.com](http://html5accessibility.com/)                                                                             |reference browser       |stand-alone page  |-
 [zone/zwag](https://github.com/zone/zwag)                                                                                            |reference WCAG          |stand-alone page  |Node
-[a11y.js](https://github.com/IBM-Watson/a11y.js)                                                                                     |utility, ARIA           |in-page function  |-
-[ally.js](http://allyjs.io/)                                                                                                         |utility, focus          |in-page function  |-
+[IBM-Watson/a11y.js](https://github.com/IBM-Watson/a11y.js)                                                                          |utility, ARIA           |in-page function  |-
+[medialize/ally.js](https://github.com/medialize/ally.js)                                                                            |utility, focus          |in-page function  |-
 [A11yance/a11y-core](https://github.com/A11yance/a11y-core)                                                                          |?                       |local Node service|Node/Grunt
 [haltersweb/Accessibility](https://github.com/haltersweb/Accessibility)                                                              |code library            |code library      |-
 [jQuery plugins for simple elements](https://a11y.nicolas-hoffmann.net/)                                                             |utility, ARIA           |in-page function  |JQuery
-[jQuery powered accessible widget archive, using ARIA](https://github.com/accdc/tsg)                                                 |utility, ARIA           |in-page function  |JQuery
+[AccDC Technical Style Guide](https://github.com/accdc/tsg)                                                                          |utility, ARIA           |in-page function  |JQuery
 ↳ [jQuery ARIA menubar utility](https://github.com/accdc/aria-menubar)                                                               |utility, ARIA           |in-page function  |jQuery
-↳ [MooTools powered accessible widget archive, using ARIA](https://github.com/accdc/tsg-mootools)                                    |utility, ARIA           |in-page function  |MooTools
-↳ [Dojo powered accessible widget archive, using ARIA](https://github.com/accdc/tsg-dojo)                                            |utility, ARIA           |in-page function  |Dojo
+↳ [MooTools powered accessible widget archive](https://github.com/accdc/tsg-mootools)                                                |utility, ARIA           |in-page function  |MooTools
+↳ [Dojo powered accessible widget archive](https://github.com/accdc/tsg-dojo)                                                        |utility, ARIA           |in-page function  |Dojo
 [A11y Dialog](https://github.com/edenspiekermann/a11y-dialog)                                                                        |utility, modal generator|in-page function  |-
 [A11y Toggle](https://github.com/edenspiekermann/a11y-toggle)                                                                        |utility, toggle         |in-page function  |-
 [adobe-accessibility/Accessible-Mega-Menu](https://github.com/adobe-accessibility/Accessible-Mega-Menu)                              |web component           |web component     |JQuery
