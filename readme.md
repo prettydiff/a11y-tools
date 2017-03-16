@@ -13,8 +13,6 @@ Repo                                                                            
 [addyosmani/a11y](https://github.com/addyosmani/a11y)                                                                                |code audit              |CLI               |Node/PhantomJS
 [dequelabs/axe-core](https://github.com/dequelabs/axe-core)                                                                          |code audit              |in-page function  |-
 [GoogleChrome/accessibility-developer-tools](https://github.com/GoogleChrome/accessibility-developer-tools)                          |code audit              |local Node service|Node
-[Grunt Tenon Client](https://github.com/egauci/grunt-tenon-client)                                                                   |code audit              |local Node service|Node/Grunt
-[Gulp Tenon Client](https://github.com/egauci/gulp-tenon-client)                                                                     |code audit              |local Node service|Node/Gulp
 [rackt/react-a11y](https://github.com/reactjs/react-a11y)                                                                            |code audit              |React Component   |React
 [squizlabs/HTML_CodeSniffer](https://github.com/squizlabs/HTML_CodeSniffer)                                                          |code audit              |stand-alone page  |-
 [TENON](http://tenon.io/)                                                                                                            |code audit              |stand-alone page  |-
