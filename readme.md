@@ -5,16 +5,18 @@ All tools are public Github repositories primary written in HTML and/or JavaScri
 
 Repo                                                                                                                                 |Purpose                 |Type              |Dependencies
 -------------------------------------------------------------------------------------------------------------------------------------|------------------------|------------------|------------
-[GoogleChrome/accessibility-developer-tools-extension](https://github.com/GoogleChrome/accessibility-developer-tools-extension)      |code audit              |browser addon     |Closure Compiler
 [ainspector/ainspector.github.io](https://github.com/ainspector/ainspector.github.io)                                                |code audit              |browser addon     |-
 [Document Outline Audit](https://github.com/edenspiekermann/outline-audit)                                                           |code audit              |browser addon     |-
-[yargalot/grunt-accessibility](https://github.com/yargalot/grunt-accessibility)                                                      |code audit              |CLI               |Node/Grunt
-[nature/pa11y](https://github.com/springernature/pa11y)                                                                              |code audit              |CLI               |Node/PhantonJS
-[addyosmani/a11y](https://github.com/addyosmani/a11y)                                                                                |code audit              |CLI               |Node/PhantomJS
 [dequelabs/axe-core](https://github.com/dequelabs/axe-core)                                                                          |code audit              |in-page function  |-
 [GoogleChrome/accessibility-developer-tools](https://github.com/GoogleChrome/accessibility-developer-tools)                          |code audit              |local Node service|Node
+↳ [Khan/tota11y](https://github.com/Khan/tota11y)                                                                                    |semantic analysis       |in-page function  |JQuery
+↳ [addyosmani/a11y](https://github.com/addyosmani/a11y)                                                                              |code audit              |CLI               |Node/PhantomJS
+↳ [GoogleChrome/accessibility-developer-tools-extension](https://github.com/GoogleChrome/accessibility-developer-tools-extension)    |code audit              |browser addon     |Closure Compiler
 [rackt/react-a11y](https://github.com/reactjs/react-a11y)                                                                            |code audit              |React Component   |React
 [squizlabs/HTML_CodeSniffer](https://github.com/squizlabs/HTML_CodeSniffer)                                                          |code audit              |stand-alone page  |-
+↳ [yargalot/grunt-accessibility](https://github.com/yargalot/grunt-accessibility)                                                    |code audit              |CLI               |Node/Grunt
+↳ [nature/pa11y](https://github.com/springernature/pa11y)                                                                            |code audit              |CLI               |Node/PhantonJS
+↳ [nature/pa11y-dashboard](https://github.com/springernature/pa11y-dashboard)                                                        |reporting               |stand-alone page  |Node/PhantomJS
 [TENON](http://tenon.io/)                                                                                                            |code audit              |stand-alone page  |-
 [haltersweb/Accessibility](https://github.com/haltersweb/Accessibility)                                                              |code library            |code library      |-
 [prettydiff/colorContrast](https://github.com/prettydiff/colorContrast)                                                              |color contrast          |color contrast    |-
@@ -30,17 +32,15 @@ Repo                                                                            
 [Accessibility Tree Training Guide, how ARIA works](http://whatsock.com/training)                                                    |reference browser       |stand-alone page  |-
 [melmo/melmo.github.io](https://github.com/melmo/melmo.github.io)                                                                    |reference landmarks     |stand-alone page  |-
 [zone/zwag](https://github.com/zone/zwag)                                                                                            |reference WCAG          |stand-alone page  |Node
-[nature/pa11y-dashboard](https://github.com/springernature/pa11y-dashboard)                                                          |reporting               |stand-alone page  |Node/PhantomJS
-[Khan/tota11y](https://github.com/Khan/tota11y)                                                                                      |semantic analysis       |in-page function  |JQuery
 [prettydiff/semanticText](https://github.com/prettydiff/semanticText)                                                                |semantic analysis       |in-page function  |-
 [A11y.css](https://github.com/ffoodd/a11y.css)                                                                                       |utility                 |bookmarklet       |-
 [Visual ARIA, bookmarklet for seeing ARIA](https://github.com/accdc/csun-2016)                                                       |utility                 |bookmarklet       |-
 [a11y.js](https://github.com/IBM-Watson/a11y.js)                                                                                     |utility, ARIA           |in-page function  |-
 [jQuery plugins for simple elements](https://a11y.nicolas-hoffmann.net/)                                                             |utility, ARIA           |in-page function  |JQuery
 [jQuery powered accessible widget archive, using ARIA](https://github.com/accdc/tsg)                                                 |utility, ARIA           |in-page function  |JQuery
-[jQuery ARIA menubar utility](https://github.com/accdc/aria-menubar)                                                                 |utility, ARIA           |in-page function  |jQuery
-[MooTools powered accessible widget archive, using ARIA](https://github.com/accdc/tsg-mootools)                                      |utility, ARIA           |in-page function  |MooTools
-[Dojo powered accessible widget archive, using ARIA](https://github.com/accdc/tsg-dojo)                                              |utility, ARIA           |in-page function  |Dojo
+↳ [jQuery ARIA menubar utility](https://github.com/accdc/aria-menubar)                                                               |utility, ARIA           |in-page function  |jQuery
+↳ [MooTools powered accessible widget archive, using ARIA](https://github.com/accdc/tsg-mootools)                                    |utility, ARIA           |in-page function  |MooTools
+↳ [Dojo powered accessible widget archive, using ARIA](https://github.com/accdc/tsg-dojo)                                            |utility, ARIA           |in-page function  |Dojo
 [ally.js](http://allyjs.io/)                                                                                                         |utility, focus          |in-page function  |-
 [A11y Dialog](https://github.com/edenspiekermann/a11y-dialog)                                                                        |utility, modal generator|in-page function  |-
 [A11y Toggle](https://github.com/edenspiekermann/a11y-toggle)                                                                        |utility, toggle         |in-page function  |-
