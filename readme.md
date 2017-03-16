@@ -38,15 +38,7 @@ Repo                                                                            
 [A11y.css](https://github.com/ffoodd/a11y.css)                                                                                       |utility                 |bookmarklet       |-
 [Visual ARIA, bookmarklet for seeing ARIA](https://github.com/accdc/csun-2016)                                                       |utility                 |bookmarklet       |-
 [a11y.js](https://github.com/IBM-Watson/a11y.js)                                                                                     |utility, ARIA           |in-page function  |-
-[jQuery accessible autocomplete list (with some ARIA)](https://github.com/nico3333fr/jquery-accessible-autocomplete-list-aria)       |utility, ARIA           |in-page function  |JQuery
-[jQuery Accessible Carrousel System, using ARIA](https://github.com/nico3333fr/jquery-accessible-carrousel-aria)                     |utility, ARIA           |in-page function  |JQuery
-[jQuery Accessible tab panel system, using ARIA](https://github.com/nico3333fr/jquery-accessible-tabs-aria)                          |utility, ARIA           |in-page function  |JQuery
-[jQuery accessible keyboard-enhanced dropdown navigation](https://github.com/nico3333fr/jquery-accessible-subnav-dropdown)           |utility, ARIA           |in-page function  |JQuery
-[jQuery accessible simple tooltip window, using ARIA](https://github.com/nico3333fr/jquery-accessible-simple-tooltip-aria)           |utility, ARIA           |in-page function  |JQuery
-[jQuery simple and accessible modal window, using ARIA](https://github.com/nico3333fr/jquery-accessible-modal-window-aria)           |utility, ARIA           |in-page function  |JQuery
-[jQuery simple and accessible hide-show system (collapsible regions)](https://github.com/nico3333fr/jquery-accessible-hide-show-aria)|utility, ARIA           |in-page function  |JQuery
-[jQuery simple and accessible dialog tooltip window, using ARIA](https://github.com/nico3333fr/jquery-accessible-dialog-tooltip-aria)|utility, ARIA           |in-page function  |JQuery
-[jQuery Accessible Accordion system, using ARIA](https://github.com/nico3333fr/jquery-accessible-accordion-aria)                     |utility, ARIA           |in-page function  |JQuery
+[jQuery plugins for simple elements](https://a11y.nicolas-hoffmann.net/)                                                             |utility, ARIA           |in-page function  |JQuery
 [jQuery powered accessible widget archive, using ARIA](https://github.com/accdc/tsg)                                                 |utility, ARIA           |in-page function  |JQuery
 [jQuery ARIA menubar utility](https://github.com/accdc/aria-menubar)                                                                 |utility, ARIA           |in-page function  |jQuery
 [MooTools powered accessible widget archive, using ARIA](https://github.com/accdc/tsg-mootools)                                      |utility, ARIA           |in-page function  |MooTools
